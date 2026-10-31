@@ -1,0 +1,3 @@
+NC_005816.1  Yersinia pestis biovar Microtus str. 91001 plasmid pPCP1, complete sequence
+length=9609 bp  GC=45.26%
+annotated CDS=10 (>=100 aa: 7)  ORFs>=100aa (ATG start) found=7  sharing a stop codon with an annotated CDS=7

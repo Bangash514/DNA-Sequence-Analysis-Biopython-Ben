@@ -1,0 +1,11 @@
+gene	product	aa_len	MW_kDa	pI	GC_pct
+-	putative transposase	340	39.9	9.63	52.8
+-	transposase/IS protein	260	29.4	9.22	50.4
+rop	putative replication regulatory protein	64	7.3	4.51	50.3
+-	hypothetical protein	123	14.5	11.93	58.6
+pim	pesticin immunity protein	145	16.3	9.52	32.9
+pst	pesticin	357	40.0	5.78	39.2
+-	hypothetical protein	138	15.8	10.11	49.2
+pla	outer membrane protease	312	34.6	5.88	41.9
+-	putative transcriptional regulator	99	11.1	5.85	45.7
+-	hypothetical protein	90	10.5	9.63	44.0
